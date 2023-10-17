@@ -1,2 +1,2 @@
-# codingvoding-java8-featuress
+# codingvoding-java8-features
 Lecture-wise Java 8 features examples
